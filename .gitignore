@@ -1,2 +1,6 @@
 # Project exclude paths
 /venv/
+/analysis/
+/output
+/features
+/test_videos
